@@ -1,4 +1,4 @@
-import MobileNavbar from "@/components/MobileNavbar";
+import MobileNavbar from "@/components/ui/MobileNavbar";
 import SideBar from "@/components/ui/SideBar";
 import  Image from 'next/image';
 
